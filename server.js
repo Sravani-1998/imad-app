@@ -10,7 +10,7 @@ var articleOne = {
     
     title:'Article One',
     heading:'Article One',
-    date:'Aug 14th ,2017',
+    date:'Aug 14 ,2017',
     content:` <p>
         this is article one content. this is article one. this is article one. this is article one. 
         this is article one. this is article one. this is article one. 
